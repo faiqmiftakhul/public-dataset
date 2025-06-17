@@ -1,0 +1,22 @@
+user_id,movie_id,rating
+Reiner,Lion King,4
+Reiner,Jerry Maguire,4
+Reiner,Roman Holidays,5
+Reiner,Downfall,1
+Sasha,Titanic,2
+Sasha,Jerry Maguire,1
+Sasha,Inception,4
+Sasha,Man on Wire,5
+Sasha,The Social Dilemma,5
+Annie,Titanic,3
+Annie,Lion King,4
+Annie,Bambi,4
+Annie,Cast Away,3
+Annie,Jerry Maguire,5
+Annie,Downfall,2
+Annie,A Beautiful Mind,3
+Eren,Titanic,2
+Eren,Lion King,3
+Eren,The Social Dilemma,5
+Eren,Malcolm x,4
+Eren,Man on Wire,5
